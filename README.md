@@ -1,2 +1,3 @@
 # ETEC2104-Lab2-1-14
-# Peter Maximus Matthew Hernandez is my full name :0
+# markdown is just html but less silly
+**Bold text has never been easier.**
